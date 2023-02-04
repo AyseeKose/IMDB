@@ -1,0 +1,50 @@
+---
+title: "IMDB"
+author: "Ayşe"
+date: "2023-02-03"
+output: html_document
+---
+##İlk önce veri setimizi çağıralım.
+```{r}
+install.packages("readxl")
+library("readxl")
+imdb <- read.csv("imdb.csv", header = TRUE, sep=";", stringsAsFactors = FALSE)
+View(imdb)
+```
+##Sonra veri setimizin yapısına bakıp düzenlemeleri yapalım.
+```{r}
+install.packages("dplyr")
+library(dplyr)
+glimpse(imdb)
+```
+Veri setimizde 8 değişken, 443 değer olduğunu gördük.Değişken türleri 'chr' ve 'int' dir.
+```{r}
+install.packages("stringr")
+library(stringr)
+summary(imdb)
+na.omit(imdb)
+```
+Veri setimizdeki değişkenlerin tek tek yapılarını inceleyip boş gözlemleri temizledik.
+## Veri setindeki 'Minutes' değişkeni için normallik testine bakalım.
+```{r}
+install.packages("stats")
+library(stats)
+shapiro.test(imdb$Minutes)
+```
+Hipotezimizi a=0,05 değeri üzerinden kurduğumuzu varsayarsak, p değeri 1.033e-09 >0,05 olduğundan verimizin normal dağıldığını söyleyebiliriz.
+##Ratingi 8.5'den fazla olan filmlere bakalım.
+```{r}
+install.packages("dplyr")
+library(dplyr)
+best<- imdb %>%
+  filter(Rating>="8,5")
+best
+```
+Raitingi 8,5'den büyük 49 tane film olduğunu görüyoruz.
+##2000 yılından sonra $10M dolardan fazla gelir getiren filmlere bakalım.
+```{r}
+yüksek_gelir <- imdb %>% 
+  filter (Year>2000 & (Gross>="$10M"))
+yüksek_gelir
+```
+2000 yılından sonra $10M'dan fazla gelir getiren 141 film vardır.
