@@ -1,0 +1,444 @@
+Ranking;Name;Year;Minutes;Genre;Rating;Votes;Gross
+1;Citizen Kane;1941;119;Drama, Mystery;8,3;442,77;$1,59M
+2;The Godfather;1972;175;Crime, Drama;9,2;1,849,989;$134,97M
+3;The Wizard of Oz;1939;102;Adventure, Family, Fantasy;8,1;400,88;$2,08M
+4;The Shawshank Redemption;1994;142;Drama;9,3;2,669,409;$28,34M
+5;Pulp Fiction;1994;154;Crime, Drama;8,9;2,044,257;$107,93M
+6;Casablanca;1942;102;Drama, Romance, War;8,5;571,77;$1,02M
+7;The Third Man;1949;104;Film-Noir, Mystery, Thriller;8,1;172,55;$0,45M
+8;Star Wars: Episode V - The Empire Strikes Back;1980;124;Action, Adventure, Fantasy;8,7;1,288,916;$290,48M
+9;Schindler's List;1993;195;Biography, Drama, History;9,0;1,351,515;$96,90M
+10;Apocalypse Now;1979;147;Drama, Mystery, War;8,5;667,04;$83,47M
+11;Goodfellas;1990;145;Biography, Crime, Drama;8,7;1,157,302;$46,84M
+12;Singin' in the Rain;1952;103;Comedy, Musical, Romance;8,3;243,26;$8,82M
+13;Psycho;1960;109;Horror, Mystery, Thriller;8,5;671,55;$32,00M
+14;2001: A Space Odyssey;1968;149;Adventure, Sci-Fi;8,3;668,69;$56,95M
+15;Fight Club;1999;139;Drama;8,8;2,114,891;$37,03M
+16;Raging Bull;1980;129;Biography, Drama, Sport;8,2;355,04;$23,38M
+17;Taxi Driver;1976;114;Crime, Drama;8,2;830,97;$28,26M
+18;Seven Samurai;1954;207;Action, Drama;8,6;346,26;$0,27M
+19;12 Angry Men;1957;96;Crime, Drama;9,0;788,43;$4,36M
+20;Dr, Strangelove or: How I Learned to Stop Worrying and Love the Bomb;1964;95;Comedy, War;8,4;491,52;$0,28M
+21;Vertigo;1958;128;Mystery, Romance, Thriller;8,3;403,06;$3,20M
+22;The Good, the Bad and the Ugly;1966;148;Adventure, Western;8,8;760,59;$6,10M
+23;City Lights;1931;87;Comedy, Drama, Romance;8,5;185,36;$0,02M
+24;Gone with the Wind;1939;238;Drama, Romance, War;8,2;316,45;$198,68M
+25;On the Waterfront;1954;108;Crime, Drama, Thriller;8,1;156,02;$9,60M
+26;The Godfather: Part II;1974;202;Crime, Drama;9,0;1,266,873;$57,30M
+27;The Dark Knight;2008;152;Action, Crime, Drama;9,0;2,642,297;$534,86M
+28;Blade Runner;1982;117;Action, Drama, Sci-Fi;8,1;769,37;$32,87M
+29;Star Wars;1977;121;Action, Adventure, Fantasy;8,6;1,361,479;$322,74M
+30;All About Eve;1950;138;Drama;8,2;132,08;$0,01M
+31;Raiders of the Lost Ark;1981;115;Action, Adventure;8,4;964,50;$248,16M
+32;Back to the Future;1985;116;Adventure, Comedy, Sci-Fi;8,5;1,201,245;$210,61M
+33;Lawrence of Arabia;1962;218;Adventure, Biography, Drama;8,3;294,66;$44,82M
+34;Jaws;1975;124;Adventure, Thriller;8,1;606,73;$260,00M
+35;12 Years a Slave;2013;134;Biography, Drama, History;8,1;701,10;$56,67M
+36;The Apartment;1960;125;Comedy, Drama, Romance;8,3;182,40;$18,60M
+37;Chinatown;1974;130;Drama, Mystery, Thriller;8,2;327,65;$8,49M
+38;Some Like It Hot;1959;121;Comedy, Music, Romance;8,2;268,15;$25,00M
+39;The Great Dictator;1940;125;Comedy, Drama, War;8,4;224,61;$0,29M
+40;The Lord of the Rings: The Fellowship of the Ring;2001;178;Action, Adventure, Drama;8,8;1,869,171;$315,54M
+41;Alien;1979;117;Horror, Sci-Fi;8,5;881,12;$78,90M
+42;Andrei Rublev;1966;205;Biography, Drama, History;8,1;54,11;$0,10M
+43;Spotlight;2015;129;Biography, Crime, Drama;8,1;470,44;$45,06M
+44;Once Upon a Time in the West;1968;165;Western;8,5;329,89;$5,32M
+45;Moonlight;2016;111;Drama;7,4;309,11;$27,85M
+46;Metropolis;1927;153;Drama, Sci-Fi;8,3;175,17;$1,24M
+47;The Lord of the Rings: The Return of the King;2003;201;Action, Adventure, Drama;9,0;1,839,981;$377,85M
+48;Modern Times;1936;87;Comedy, Drama, Romance;8,5;243,09;$0,16M
+49;Aliens;1986;137;Action, Adventure, Sci-Fi;8,4;717,34;$85,16M
+50;It Happened One Night;1934;107;Comedy, Romance;8,1;104,79;$4,36M
+51;Laura;1944;88;Drama, Film-Noir, Mystery;7,9;48,02;$4,36M
+52;Terminator 2: Judgment Day;1991;137;Action, Sci-Fi;8,6;1,096,602;$204,84M
+53;A Clockwork Orange;1971;136;Crime, Sci-Fi;8,3;829,57;$6,21M
+54;E,T, the Extra-Terrestrial;1982;115;Adventure, Family, Sci-Fi;7,9;410,77;$435,11M
+55;Snow White and the Seven Dwarfs;1937;83;Animation, Adventure, Family;7,6;200,86;$184,93M
+56;The Battle of Algiers;1966;121;Drama, War;8,1;60,79;$0,06M
+57;La Grande Illusion;1937;113;Drama, War;8,1;37,05;$0,17M
+58;North by Northwest;1959;136;Action, Adventure, Mystery;8,3;328,88;$13,28M
+59;Butch Cassidy and the Sundance Kid;1969;110;Biography, Crime, Drama;8,0;216,97;$102,31M
+60;The Maltese Falcon;1941;100;Crime, Film-Noir, Mystery;8,0;159,53;$2,11M
+61;Gravity;2013;91;Drama, Sci-Fi, Thriller;7,7;826,30;$274,09M
+62;King Kong;1933;100;Adventure, Horror, Sci-Fi;7,9;86,31;$10,00M
+63;Toy Story;1995;81;Animation, Adventure, Comedy;8,3;991,95;$191,80M
+64;Rear Window;1954;112;Mystery, Thriller;8,5;491,94;$36,76M
+65;Rashomon;1950;88;Crime, Drama, Mystery;8,2;169,44;$0,10M
+66;The Adventures of Robin Hood;1938;102;Action, Adventure, Romance;7,9;51,61;$3,98M
+67;A Hard Day's Night;1964;87;Comedy, Musical;7,5;45,67;$13,78M
+68;Bride of Frankenstein;1935;75;Drama, Horror, Sci-Fi;7,8;49,52;$4,36M
+69;M;1931;117;Crime, Mystery, Thriller;8,3;158,78;$0,03M
+70;The Treasure of the Sierra Madre;1948;126;Adventure, Drama, Western;8,2;125,71;$5,01M
+71;All Quiet on the Western Front;1930;152;Drama, War;8,1;63,21;$3,27M
+72;Bicycle Thieves;1948;89;Drama;8,3;164,35;$0,33M
+73;The Graduate;1967;106;Comedy, Drama, Romance;8,0;274,46;$104,95M
+74;Army of Shadows;1969;145;Drama, War;8,1;23,95;$0,74M
+75;A Streetcar Named Desire;1951;122;Drama;7,9;109,08;$8,00M
+76;The Night of the Hunter;1955;92;Crime, Drama, Film-Noir;8,0;90,28;$0,65M
+77;One Flew Over the Cuckoo's Nest;1975;133;Drama;8,7;1,006,194;$112,00M
+78;Rebecca;1940;130;Drama, Film-Noir, Mystery;8,1;138,09;$4,36M
+79;Selma;2014;128;Biography, Drama, History;7,5;92,11;$52,08M
+80;The General;1926;67;Action, Adventure, Comedy;8,2;92,16;$1,03M
+81;The Conformist;1970;113;Drama;7,9;31,02;$0,54M
+82;Touch of Evil;1958;95;Crime, Drama, Film-Noir;8,0;105,31;$2,24M
+83;Annie Hall;1977;93;Comedy, Romance;8,0;266,64;$39,20M
+84;The Hurt Locker;2008;131;Drama, Thriller, War;7,5;453,15;$17,02M
+85;L,A, Confidential;1997;138;Crime, Drama, Mystery;8,2;583,65;$64,62M
+86;Mad Max: Fury Road;2015;120;Action, Adventure, Sci-Fi;8,1;1,000,410;$154,06M
+87;Pinocchio;1940;88;Animation, Adventure, Comedy;7,5;148,34;$84,25M
+88;The Last Picture Show;1971;118;Drama, Romance;8,0;48,92;$29,13M
+89;The Grapes of Wrath;1940;129;Drama;8,1;93,96;$0,06M
+90;Mr, Smith Goes to Washington;1939;129;Comedy, Drama;8,1;116,35;$9,60M
+91;Patton;1970;172;Biography, Drama, War;7,9;102,93;$61,70M
+92;High Noon;1952;85;Drama, Thriller, Western;8,0;105,10;$9,45M
+93;Double Indemnity;1944;107;Crime, Drama, Film-Noir;8,3;158,19;$5,72M
+94;Forrest Gump;1994;142;Drama, Romance;8,8;2,069,583;$330,25M
+95;The Silence of the Lambs;1991;118;Crime, Drama, Thriller;8,6;1,428,301;$130,74M
+96;There Will Be Blood;2007;158;Drama;8,2;586,91;$40,22M
+97;Die Hard;1988;132;Action, Thriller;8,2;876,06;$83,01M
+98;Fargo;1996;98;Crime, Thriller;8,1;678,34;$24,61M
+99;American Beauty;1999;122;Drama;8,4;1,153,783;$130,10M
+100;The Matrix;1999;136;Action, Sci-Fi;8,7;1,906,995;$171,48M
+101;The Bridge on the River Kwai;1957;161;Adventure, Drama, War;8,2;221,72;$44,91M
+102;The Best Years of Our Lives;1946;170;Drama, Romance, War;8,1;65,24;$23,65M
+103;The Sound of Music;1965;172;Biography, Drama, Family;8,1;235,54;$163,21M
+104;Inception;2010;148;Action, Adventure, Sci-Fi;8,8;2,341,880;$292,58M
+105;Midnight Cowboy;1969;113;Drama;7,8;111,99;$44,79M
+106;Shane;1953;118;Drama, Western;7,6;41,36;$20,00M
+107;Intolerance: Love's Struggle Throughout the Ages;1916;163;Drama, History;7,7;15,76;$2,18M
+108;Man on Wire;2008;94;Documentary, Biography, Crime;7,7;56,39;$2,96M
+109;Battleship Potemkin;1925;75;Drama, History, Thriller;7,9;58,32;$0,05M
+110;Anatomy of a Murder;1959;161;Drama, Mystery;8,0;66,99;$11,90M
+111;Cool Hand Luke;1967;127;Crime, Drama;8,1;178,24;$16,22M
+112;The Usual Suspects;1995;106;Crime, Drama, Mystery;8,5;1,083,575;$23,34M
+113;The Shining;1980;146;Drama, Horror;8,4;1,020,153;$44,02M
+114;City of God;2002;130;Crime, Drama;8,6;756,10;$7,56M
+115;Heat;1995;170;Action, Crime, Drama;8,3;654,49;$67,44M
+116;The Big Lebowski;1998;117;Comedy, Crime;8,1;808,44;$17,50M
+117;La dolce vita;1960;174;Comedy, Drama;8,0;73,90;$19,52M
+118;Fantasia;1940;125;Animation, Family, Fantasy;7,7;97,47;$76,41M
+119;No Country for Old Men;2007;122;Crime, Drama, Thriller;8,2;971,26;$74,28M
+120;This Is Spinal Tap;1984;82;Comedy, Music;7,9;140,60;$4,74M
+121;Three Colours: Red;1994;99;Drama, Mystery, Romance;8,1;103,97;$4,04M
+122;Good Will Hunting;1997;126;Drama, Romance;8,3;966,11;$138,43M
+123;Federico Fellini's 8½;1963;138;Drama;8,0;118,76;$0,05M
+124;Spirited Away;2001;125;Animation, Adventure, Family;8,6;761,18;$10,06M
+125;La La Land;2016;128;Comedy, Drama, Music;8,0;587,18;$151,10M
+126;West Side Story;1961;153;Crime, Drama, Musical;7,6;114,84;$43,66M
+127;The Deer Hunter;1978;183;Drama, War;8,1;340,35;$48,98M
+128;M*A*S*H;1970;116;Comedy, Drama, War;7,4;73,81;$81,60M
+129;Beauty and the Beast;1991;84;Animation, Family, Fantasy;8,0;455,54;$218,97M
+130;The Lives of Others;2006;137;Drama, Mystery, Thriller;8,4;390,24;$11,29M
+131;The Artist;2011;100;Comedy, Drama, Romance;7,9;242,17;$44,67M
+132;Whiplash;2014;106;Drama, Music;8,5;856,14;$13,09M
+133;The King's Speech;2010;118;Biography, Drama, History;8,0;681,47;$138,80M
+134;Birdman or (The Unexpected Virtue of Ignorance);2014;119;Comedy, Drama;7,7;630,65;$42,34M
+135;Manchester by the Sea;2016;137;Drama;7,8;283,61;$47,70M
+136;The Lord of the Rings: The Two Towers;2002;179;Action, Adventure, Drama;8,8;1,661,446;$342,55M
+137;Close Encounters of the Third Kind;1977;138;Drama, Sci-Fi;7,6;203,39;$132,09M
+138;Brooklyn;2015;117;Drama, Romance;7,5;143,32;$38,32M
+139;Million Dollar Baby;2004;132;Drama, Sport;8,1;687,74;$100,49M
+140;Das Boot;1981;149;Drama, War;8,4;251,78;$11,49M
+141;Hell or High Water;2016;102;Crime, Drama, Thriller;7,6;232,40;$26,86M
+142;Ordinary People;1980;124;Drama;7,7;52,92;$54,80M
+143;The Pianist;2002;150;Biography, Drama, Music;8,5;830,23;$32,57M
+144;Cinema Paradiso;1988;155;Drama, Romance;8,5;261,62;$11,99M
+145;His Girl Friday;1940;92;Comedy, Drama, Romance;7,8;59,40;$0,30M
+146;Witness for the Prosecution;1957;116;Crime, Drama, Mystery;8,4;126,17;$8,18M
+147;Stand by Me;1986;89;Adventure, Drama;8,1;404,76;$52,29M
+148;Eternal Sunshine of the Spotless Mind;2004;108;Drama, Romance, Sci-Fi;8,3;1,006,241;$34,40M
+149;Amadeus;1984;160;Biography, Drama, Music;8,4;401,72;$51,97M
+150;Oldboy;2003;120;Action, Drama, Mystery;8,4;579,18;$0,71M
+151;The Lion King;1994;88;Animation, Adventure, Drama;8,5;1,055,462;$422,78M
+152;Boyhood;2014;165;Drama;7,9;355,44;$25,38M
+153;Argo;2012;120;Biography, Drama, Thriller;7,7;615,72;$136,03M
+154;Thelma & Louise;1991;130;Adventure, Crime, Drama;7,5;156,77;$45,36M
+155;Manhattan;1979;96;Comedy, Drama, Romance;7,9;141,11;$45,70M
+156;The Great Escape;1963;172;Adventure, Drama, History;8,2;245,41;$12,10M
+157;Spartacus;1960;197;Adventure, Biography, Drama;7,9;135,86;$30,00M
+158;Monty Python and the Holy Grail;1975;91;Adventure, Comedy, Fantasy;8,2;542,24;$1,23M
+159;Brazil;1985;132;Drama, Sci-Fi;7,9;201,92;$9,93M
+160;Magnolia;1999;188;Drama;8,0;313,90;$22,46M
+161;Tootsie;1982;116;Comedy, Drama, Romance;7,4;108,05;$177,20M
+162;The Departed;2006;151;Crime, Drama, Thriller;8,5;1,321,691;$132,38M
+163;Arrival;2016;116;Drama, Mystery, Sci-Fi;7,9;694,32;$100,55M
+164;Casino Royale;2006;144;Action, Adventure, Thriller;8,0;658,34;$167,45M
+165;When Harry Met Sally;1989;95;Comedy, Drama, Romance;7,7;222,39;$92,82M
+166;Slumdog Millionaire;2008;120;Crime, Drama, Romance;8,0;845,83;$141,32M
+167;Blue Velvet;1986;120;Crime, Drama, Mystery;7,7;200,85;$8,55M
+168;The King of Comedy;1982;109;Comedy, Crime, Drama;7,8;105,13;$2,50M
+169;The Breakfast Club;1985;97;Comedy, Drama;7,8;400,04;$45,88M
+170;WALL·E;2008;98;Animation, Adventure, Family;8,4;1,113,514;$223,81M
+171;Inside Out;2015;95;Animation, Adventure, Comedy;8,2;712,53;$356,46M
+172;Ferris Bueller's Day Off;1986;105;Comedy;7,8;360,12;$70,14M
+173;Easy Rider;1969;95;Adventure, Drama;7,3;110,98;$41,73M
+174;Young Frankenstein;1974;106;Comedy;8,0;159,72;$86,30M
+175;Amélie;2001;122;Comedy, Romance;8,3;756,83;$33,23M
+176;Seven;1995;127;Crime, Drama, Mystery;8,6;1,645,902;$100,13M
+177;All the President's Men;1976;138;Drama, History, Thriller;7,9;116,83;$70,60M
+178;Leon;1994;110;Action, Crime, Drama;8,5;1,158,185;$19,50M
+179;The Kid;1921;68;Comedy, Drama, Family;8,3;127,12;$5,45M
+180;The Passion of Joan of Arc;1928;110;Biography, Drama, History;8,2;55,48;$0,02M
+181;Life Is Beautiful;1997;116;Comedy, Drama, Romance;8,6;693,92;$57,60M
+182;Rocky;1976;120;Drama, Sport;8,1;576,28;$117,24M
+183;Trainspotting;1996;93;Drama;8,1;687,57;$16,50M
+184;Star Wars: Return of the Jedi;1983;131;Action, Adventure, Fantasy;8,3;1,052,027;$309,13M
+185;The Gold Rush;1925;95;Adventure, Comedy, Drama;8,2;112,08;$5,45M
+186;Unforgiven;1992;130;Drama, Western;8,2;412,97;$101,16M
+187;Memento;2000;113;Mystery, Thriller;8,4;1,235,654;$25,54M
+188;Sunrise: A Song of Two Humans;1927;94;Drama, Romance;8,1;51,44;$0,54M
+189;Nashville;1975;160;Comedy, Drama, Music;7,7;26,74;$14,82M
+190;Cabaret;1972;124;Drama, Music, Musical;7,8;55,75;$42,77M
+191;Saving Private Ryan;1998;169;Drama, War;8,6;1,387,433;$216,54M
+192;The African Queen;1951;105;Adventure, Drama, Romance;7,7;79,45;$0,54M
+193;In the Heat of the Night;1967;110;Drama, Mystery, Thriller;7,9;77,13;$24,38M
+194;Dial M for Murder;1954;105;Crime, Thriller;8,2;176,88;$0,01M
+195;The Wild Bunch;1969;145;Action, Adventure, Western;7,9;85,40;$12,06M
+196;Titanic;1997;194;Drama, Romance;7,9;1,170,288;$659,33M
+197;A Night at the Opera;1935;96;Comedy, Music, Musical;7,8;33,23;$2,54M
+198;Platoon;1986;120;Drama, War;8,1;415,32;$138,53M
+199;Once Upon a Time in America;1984;229;Crime, Drama;8,3;352,65;$5,32M
+200;A Separation;2011;123;Drama;8,3;245,84;$7,10M
+201;Toy Story 3;2010;103;Animation, Adventure, Comedy;8,3;835,28;$415,00M
+202;The Sixth Sense;1999;107;Drama, Mystery, Thriller;8,2;991,32;$293,51M
+203;The Conversation;1974;113;Drama, Mystery, Thriller;7,8;113,04;$4,42M
+204;Sophie's Choice;1982;150;Drama, Romance;7,5;48,81;$30,04M
+205;The French Connection;1971;104;Action, Crime, Drama;7,7;124,03;$15,63M
+206;Do the Right Thing;1989;120;Comedy, Drama;7,9;103,16;$27,55M
+207;Yankee Doodle Dandy;1942;126;Biography, Drama, Family;7,6;15,90;$11,80M
+208;Ben-Hur;1959;212;Adventure, Drama;8,1;240,13;$74,70M
+209;Almost Famous;2000;122;Adventure, Comedy, Drama;7,9;277,68;$32,53M
+210;Brokeback Mountain;2005;134;Drama, Romance;7,7;358,65;$83,04M
+211;The English Patient;1996;162;Drama, Romance, War;7,4;191,46;$78,65M
+212;American History X;1998;119;Crime, Drama;8,5;1,120,669;$6,72M
+213;The Sting;1973;129;Comedy, Crime, Drama;8,3;263,17;$159,60M
+214;A Man for All Seasons;1966;120;Biography, Drama, History;7,7;34,99;$28,35M
+215;Lost in Translation;2003;102;Comedy, Drama;7,7;456,34;$44,59M
+216;Reservoir Dogs;1992;99;Crime, Thriller;8,3;1,016,403;$2,83M
+217;Shakespeare in Love;1998;123;Comedy, Drama, History;7,1;226,13;$100,32M
+218;Indiana Jones and the Last Crusade;1989;127;Action, Adventure;8,2;754,45;$197,17M
+219;The Princess Bride;1987;98;Adventure, Family, Fantasy;8,0;428,50;$30,86M
+220;A Woman Under the Influence;1974;155;Drama, Romance;8,1;25,71;$13,34M
+221;Up;2009;96;Animation, Adventure, Comedy;8,3;1,041,976;$293,00M
+222;The Green Mile;1999;189;Crime, Drama, Fantasy;8,6;1,297,477;$136,80M
+223;Doctor Zhivago;1965;193;Drama, Romance, War;7,9;77,52;$111,72M
+224;Pan's Labyrinth;2006;118;Drama, Fantasy, War;8,2;669,55;$37,63M
+225;Goldfinger;1964;110;Action, Adventure, Thriller;7,7;191,96;$51,08M
+226;Airplane!;1980;88;Comedy;7,7;240,99;$83,40M
+227;Requiem for a Dream;2000;102;Drama;8,3;841,32;$3,64M
+228;The Thing;1982;109;Horror, Mystery, Sci-Fi;8,2;426,18;$13,78M
+229;Jurassic Park;1993;127;Action, Adventure, Sci-Fi;8,2;986,76;$402,45M
+230;The Terminator;1984;107;Action, Sci-Fi;8,1;864,48;$38,40M
+231;Blazing Saddles;1974;93;Comedy, Western;7,7;140,90;$119,50M
+232;Finding Nemo;2003;100;Animation, Adventure, Comedy;8,2;1,042,137;$380,84M
+233;The Wrestler;2008;109;Drama, Sport;7,9;307,45;$26,24M
+234;Before Sunset;2004;80;Drama, Romance;8,1;265,17;$5,82M
+235;Downfall;2004;156;Biography, Drama, History;8,2;356,65;$5,51M
+236;Full Metal Jacket;1987;116;Drama, War;8,3;742,62;$46,36M
+237;The Thin Red Line;1998;170;Drama, History, War;7,6;189,00;$36,40M
+238;Rio Bravo;1959;141;Western;8,0;63,36;$12,54M
+239;Planet of the Apes;1968;112;Adventure, Sci-Fi;8,0;181,32;$33,40M
+240;La haine;1995;98;Crime, Drama;8,1;174,83;$0,31M
+241;Three Colors: Blue;1993;94;Drama, Music, Mystery;7,9;103,06;$1,32M
+242;Star Trek II: The Wrath of Khan;1982;113;Action, Adventure, Sci-Fi;7,7;122,69;$78,91M
+243;The Red Shoes;1948;135;Drama, Music, Romance;8,1;35,59;$10,90M
+244;Gladiator;2000;155;Action, Adventure, Drama;8,5;1,495,870;$187,71M
+245;Boogie Nights;1997;155;Drama;7,9;267,18;$26,40M
+246;La Belle et la Bête;1946;96;Drama, Fantasy, Romance;7,9;26,77;$0,30M
+247;Miracle on 34th Street;1947;96;Comedy, Drama, Family;7,9;48,63;$2,65M
+248;For a Few Dollars More;1965;132;Western;8,2;257,64;$15,00M
+249;Superman;1978;143;Action, Adventure, Sci-Fi;7,4;176,29;$134,22M
+250;Children of Heaven;1997;89;Drama, Family, Sport;8,2;75,37;$0,93M
+251;Ran;1985;162;Action, Drama, War;8,2;126,43;$4,14M
+252;The Hunt;2012;115;Drama;8,3;330,75;$0,69M
+253;Braveheart;1995;178;Biography, Drama, History;8,4;1,036,814;$75,60M
+254;Harry Potter and the Deathly Hallows: Part 2;2011;130;Adventure, Family, Fantasy;8,1;873,54;$381,01M
+255;Room;2015;118;Drama, Thriller;8,1;421,34;$14,68M
+256;Django Unchained;2012;165;Drama, Western;8,4;1,547,398;$162,81M
+257;Rushmore;1998;93;Comedy, Drama, Romance;7,6;186,79;$17,11M
+258;Get Out;2017;104;Horror, Mystery, Thriller;7,7;609,31;$176,04M
+259;Scarface;1983;170;Crime, Drama;8,3;839,82;$45,60M
+260;Inglourious Basterds;2009;153;Adventure, Drama, War;8,3;1,443,620;$120,54M
+261;Drive;2011;100;Action, Drama;7,8;640,67;$35,06M
+262;Star Wars: Episode VII - The Force Awakens;2015;138;Action, Adventure, Sci-Fi;7,8;930,21;$936,66M
+263;The Handmaiden;2016;145;Drama, Romance, Thriller;8,1;148,31;$2,01M
+264;The Truman Show;1998;103;Comedy, Drama;8,2;1,078,281;$125,62M
+265;Mulholland Drive;2001;147;Drama, Mystery, Thriller;7,9;357,10;$7,22M
+266;Life of Brian;1979;94;Comedy;8,0;400,75;$20,05M
+267;The Exorcist;1973;122;Horror;8,1;409,33;$232,91M
+268;Aladdin;1992;90;Animation, Adventure, Comedy;8,0;420,65;$217,35M
+269;The Wolf of Wall Street;2013;180;Biography, Comedy, Crime;8,2;1,402,646;$116,90M
+270;Donnie Darko;2001;113;Drama, Mystery, Sci-Fi;8,0;801,97;$1,48M
+271;Before Sunrise;1995;101;Drama, Romance;8,1;309,11;$5,54M
+272;Let the Right One In;2008;114;Drama, Fantasy, Horror;7,9;218,77;$2,12M
+273;The Bourne Ultimatum;2007;115;Action, Mystery, Thriller;8,0;635,91;$227,47M
+274;The Celebration;1998;105;Drama;8,1;87,75;$1,65M
+275;Ratatouille;2007;111;Animation, Adventure, Comedy;8,1;735,67;$206,45M
+276;JFK;1991;189;Drama, History, Thriller;8,0;157,43;$70,41M
+277;The Jungle Book;1967;78;Animation, Adventure, Comedy;7,6;184,44;$141,84M
+278;Children of Men;2006;109;Action, Drama, Sci-Fi;7,9;501,94;$35,55M
+279;The Social Network;2010;120;Biography, Drama;7,8;703,34;$96,96M
+280;Princess Mononoke;1997;134;Animation, Action, Adventure;8,4;394,93;$2,38M
+281;Ikiru;1952;143;Drama;8,3;79,20;$0,06M
+282;The Incredibles;2004;115;Animation, Action, Adventure;8,0;736,94;$261,44M
+283;Untouchable;2011;112;Biography, Comedy, Drama;8,5;856,29;$13,18M
+284;In the Name of the Father;1993;133;Biography, Crime, Drama;8,1;176,08;$25,01M
+285;Kill Bill: Vol, 1;2003;111;Action, Crime, Drama;8,2;1,113,629;$70,10M
+286;Blade Runner 2049;2017;164;Action, Drama, Mystery;8,0;571,51;$92,05M
+287;Skyfall;2012;143;Action, Adventure, Thriller;7,8;697,80;$304,36M
+288;The Blues Brothers;1980;133;Action, Adventure, Comedy;7,9;201,02;$57,23M
+289;The Secret in Their Eyes;2009;129;Drama, Mystery, Romance;8,2;210,58;$6,39M
+290;Groundhog Day;1993;101;Comedy, Drama, Fantasy;8,1;631,71;$70,91M
+291;American Graffiti;1973;110;Comedy, Drama;7,4;91,29;$115,00M
+292;Crimes and Misdemeanors;1989;104;Comedy, Drama;7,8;58,50;$18,25M
+293;Amores perros;2000;154;Drama, Thriller;8,1;241,40;$5,38M
+294;Howl's Moving Castle;2004;119;Animation, Adventure, Family;8,2;395,53;$4,71M
+295;Gandhi;1982;191;Biography, Drama, History;8,1;232,54;$52,77M
+296;My Neighbour Totoro;1988;86;Animation, Comedy, Family;8,1;339,90;$1,11M
+297;Notorious;1946;102;Drama, Film-Noir, Romance;7,9;101,95;$10,46M
+298;Her;2013;126;Drama, Romance, Sci-Fi;8,0;613,53;$25,57M
+299;Incendies;2010;131;Drama, Mystery;8,3;178,49;$6,86M
+300;Strangers on a Train;1951;101;Crime, Drama, Film-Noir;7,9;134,79;$7,63M
+301;Sin City;2005;124;Crime, Thriller;8,0;770,35;$74,10M
+302;Lock, Stock and Two Smoking Barrels;1998;107;Action, Comedy, Crime;8,2;582,84;$3,90M
+303;The Favourite;2018;119;Biography, Comedy, Drama;7,5;201,50;$34,37M
+304;Before Midnight;2013;109;Drama, Romance;7,9;159,42;$8,11M
+305;A Beautiful Mind;2001;135;Biography, Drama;8,2;931,87;$170,74M
+306;Carlito's Way;1993;144;Crime, Drama, Thriller;7,9;219,75;$36,95M
+307;The Untouchables;1987;119;Crime, Drama, Thriller;7,8;311,33;$76,27M
+308;Casino;1995;178;Crime, Drama;8,2;520,65;$42,44M
+309;Gran Torino;2008;116;Drama;8,1;776,04;$148,10M
+310;Memories of Murder;2003;131;Crime, Drama, Mystery;8,1;185,11;$0,01M
+311;Hacksaw Ridge;2016;139;Biography, Drama, History;8,1;525,25;$67,21M
+312;Silver Linings Playbook;2012;122;Comedy, Drama, Romance;7,7;710,48;$132,09M
+313;Little Miss Sunshine;2006;101;Comedy, Drama;7,8;482,83;$59,89M
+314;Nights of Cabiria;1957;110;Drama;8,1;49,49;$0,75M
+315;Into the Wild;2007;148;Adventure, Biography, Drama;8,1;623,87;$18,35M
+316;Dunkirk;2017;106;Action, Drama, History;7,8;657,80;$188,37M
+317;Shoplifters;2018;121;Crime, Drama, Thriller;7,9;77,43;$3,31M
+318;Stalker;1979;162;Drama, Sci-Fi;8,1;135,04;$0,23M
+319;Les Diaboliques;1955;117;Crime, Drama, Horror;8,1;66,41;$1,09M
+320;Hot Fuzz;2007;121;Action, Comedy, Mystery;7,8;507,00;$23,64M
+321;Gone Girl;2014;149;Drama, Mystery, Thriller;8,1;980,65;$167,77M
+322;Hotel Rwanda;2004;121;Biography, Drama, History;8,1;356,56;$23,53M
+323;Wild Tales;2014;122;Comedy, Drama, Thriller;8,1;199,26;$3,11M
+324;The Grand Budapest Hotel;2014;99;Adventure, Comedy, Crime;8,1;808,03;$59,10M
+325;Prisoners;2013;153;Crime, Drama, Mystery;8,1;710,29;$61,00M
+326;Toy Story 2;1999;92;Animation, Adventure, Comedy;7,9;581,77;$245,85M
+327;Short Term 12;2013;96;Drama;7,9;88,38;$1,01M
+328;The Martian;2015;144;Adventure, Drama, Sci-Fi;8,0;853,07;$228,43M
+329;Rush;2013;123;Action, Biography, Drama;8,1;480,58;$26,95M
+330;Dawn of the Dead;1978;127;Horror, Thriller;7,8;122,16;$5,10M
+331;Catch Me If You Can;2002;141;Biography, Crime, Drama;8,1;979,51;$164,62M
+332;Akira;1988;124;Animation, Action, Drama;8,0;187,72;$0,55M
+333;Paper Moon;1973;102;Comedy, Crime, Drama;8,1;48,33;$30,93M
+334;Infernal Affairs;2002;101;Action, Crime, Drama;8,0;125,49;$0,17M
+335;Mary Poppins;1964;139;Comedy, Family, Fantasy;7,8;173,99;$102,27M
+336;Dog Day Afternoon;1975;125;Biography, Crime, Drama;8,0;258,30;$50,00M
+337;The Triplets of Belleville;2003;80;Animation, Adventure, Comedy;7,7;54,88;$7,00M
+338;Wings of Desire;1987;128;Drama, Fantasy, Romance;8,0;71,81;$3,33M
+339;What Ever Happened to Baby Jane?;1962;134;Drama, Horror, Thriller;8,0;57,25;$4,05M
+340;Anomalisa;2015;90;Animation, Comedy, Drama;7,2;72,44;$3,76M
+341;Edward Scissorhands;1990;105;Drama, Fantasy, Romance;7,9;492,71;$56,36M
+342;Ghostbusters;1984;105;Action, Comedy, Fantasy;7,8;416,85;$238,63M
+343;Halloween;1978;91;Horror, Thriller;7,7;282,52;$47,00M
+344;Fantastic Mr, Fox;2009;87;Animation, Adventure, Comedy;7,9;233,69;$21,00M
+345;The Help;2011;146;Drama;8,1;460,11;$169,71M
+346;Dazed and Confused;1993;103;Comedy;7,6;185,43;$7,99M
+347;The Nightmare Before Christmas;1993;76;Animation, Family, Fantasy;7,9;341,31;$75,08M
+348;In the Mood for Love;2000;98;Drama, Romance;8,1;150,94;$2,73M
+349;The Iron Giant;1999;86;Animation, Action, Adventure;8,1;199,25;$23,16M
+350;Avengers Assemble;2012;143;Action, Adventure, Sci-Fi;8,0;1,388,848;$623,28M
+351;Forbidden Planet;1956;98;Adventure, Sci-Fi;7,5;50,06;$3,00M
+352;Nausicaä of the Valley of the Wind;1984;117;Animation, Adventure, Sci-Fi;8,0;170,19;$0,50M
+353;Letters from Iwo Jima;2006;141;Action, Adventure, Drama;7,9;163,74;$13,76M
+354;Hero;2002;120;Action, Adventure, Drama;7,9;182,20;$53,71M
+355;Paris, Texas;1984;145;Drama;8,1;107,29;$2,18M
+356;Fanny and Alexander;1982;188;Drama;8,1;64,19;$4,97M
+357;Mystic River;2003;138;Crime, Drama, Mystery;7,9;457,86;$90,14M
+358;Baby Driver;2017;113;Action, Crime, Drama;7,6;538,45;$107,83M
+359;Snatch;2000;104;Comedy, Crime;8,2;855,66;$30,33M
+360;Warrior;2011;140;Action, Drama, Sport;8,2;473,29;$13,66M
+361;Sling Blade;1996;135;Drama;8,0;94,66;$24,48M
+362;Underground;1995;170;Comedy, Drama, Fantasy;8,1;58,84;$0,17M
+363;Cat on a Hot Tin Roof;1958;108;Drama;7,9;50,18;$17,57M
+364;Elite Squad;2007;115;Action, Crime, Drama;8,0;104,86;$0,01M
+365;V for Vendetta;2005;132;Action, Drama, Sci-Fi;8,2;1,121,380;$70,51M
+366;Le Samouraï;1967;105;Crime, Drama;8,0;52,23;$0,04M
+367;Spider-Man: Into the Spider-Verse;2018;117;Animation, Action, Adventure;8,4;526,11;$190,24M
+368;Spring, Summer, Fall, Winter,,, And Spring;2003;103;Drama, Romance;8,0;83,56;$2,38M
+369;The Legend of 1900;1998;169;Drama, Music, Romance;8,0;65,01;$0,26M
+370;About Elly;2009;119;Drama, Mystery;7,9;53,96;$0,11M
+371;Adaptation,;2002;115;Comedy, Drama;7,7;193,91;$22,25M
+372;Lady Bird;2017;94;Comedy, Drama;7,4;291,89;$48,96M
+373;Dances with Wolves;1990;181;Adventure, Drama, Western;8,0;266,65;$184,21M
+374;Rififi;1955;118;Crime, Drama, Thriller;8,1;34,77;$0,06M
+375;Logan;2017;137;Action, Drama, Sci-Fi;8,1;762,00;$226,28M
+376;Elite Squad 2: The Enemy Within;2010;115;Action, Crime, Drama;8,0;83,61;$0,10M
+377;3-Iron;2004;88;Crime, Drama, Romance;7,9;55,66;$0,24M
+378;Sherlock Jr,;1924;45;Action, Comedy, Romance;8,2;50,68;$0,98M
+379;Ace in the Hole;1951;111;Drama, Film-Noir;8,1;36,48;$3,97M
+380;Edge of Tomorrow;2014;113;Action, Adventure, Sci-Fi;7,9;678,97;$100,21M
+381;Star Trek;2009;127;Action, Adventure, Sci-Fi;7,9;604,64;$257,73M
+382;Harry Potter and the Prisoner of Azkaban;2004;142;Adventure, Family, Fantasy;7,9;633,99;$249,36M
+383;Bambi;1942;69;Animation, Adventure, Drama;7,3;144,34;$102,80M
+384;Moon;2009;97;Drama, Mystery, Sci-Fi;7,8;360,55;$5,01M
+385;Freaks;1932;64;Drama, Horror;7,8;47,14;$0,63M
+386;Twelve Monkeys;1995;129;Mystery, Sci-Fi, Thriller;8,0;619,07;$57,14M
+387;Samsara;2011;102;Documentary, Music;8,4;36,30;$2,67M
+388;Persepolis;2007;96;Animation, Biography, Drama;8,0;95,53;$4,45M
+389;Evil Dead II;1987;84;Comedy, Horror;7,7;166,36;$5,92M
+390;Who Framed Roger Rabbit;1988;104;Animation, Adventure, Comedy;7,7;202,88;$156,45M
+391;Serenity;2005;119;Action, Adventure, Sci-Fi;7,8;297,16;$25,51M
+392;Monsters, Inc,;2001;92;Animation, Adventure, Comedy;8,1;907,92;$289,92M
+393;Pink Floyd: The Wall;1982;95;Drama, Fantasy, Music;8,0;81,68;$22,24M
+394;Mad Max 2;1981;96;Action, Adventure, Sci-Fi;7,6;182,14;$12,47M
+395;Dallas Buyers Club;2013;117;Biography, Drama;7,9;489,61;$27,30M
+396;Winter Sleep;2014;196;Drama;8,1;52,06;$0,17M
+397;Ex Machina;2014;108;Drama, Sci-Fi, Thriller;7,7;546,19;$25,44M
+398;Isle of Dogs;2018;101;Animation, Adventure, Comedy;7,8;170,04;$32,02M
+399;Pirates of the Caribbean: The Curse of the Black Pearl;2003;143;Action, Adventure, Fantasy;8,1;1,125,642;$305,41M
+400;Kill Bill: Vol, 2;2004;137;Action, Crime, Thriller;8,0;756,70;$66,21M
+401;Hunt for the Wilderpeople;2016;101;Adventure, Comedy, Drama;7,8;131,58;$5,20M
+402;Zootropolis;2016;108;Animation, Adventure, Comedy;8,0;499,40;$341,27M
+403;Song of the Sea;2014;93;Animation, Adventure, Drama;8,0;59,01;$0,86M
+404;District 9;2009;112;Action, Sci-Fi, Thriller;7,9;683,12;$115,65M
+405;Night of the Living Dead;1968;96;Horror, Thriller;7,8;130,55;$0,09M
+406;How to Train Your Dragon;2010;98;Animation, Action, Adventure;8,1;739,80;$217,58M
+407;Mission: Impossible - Fallout;2018;147;Action, Adventure, Thriller;7,7;333,54;$220,16M
+408;Mirror;1975;107;Biography, Drama;8,0;47,46;$0,18M
+409;Shaun of the Dead;2004;99;Comedy, Horror;7,9;559,82;$13,54M
+410;The Revenant;2015;156;Action, Adventure, Drama;8,0;803,25;$183,64M
+411;Shrek;2001;90;Animation, Adventure, Comedy;7,9;677,30;$267,67M
+412;Interstellar;2014;169;Adventure, Drama, Sci-Fi;8,6;1,817,609;$188,02M
+413;Minority Report;2002;145;Action, Crime, Mystery;7,6;553,08;$132,07M
+414;The Big Sick;2017;120;Comedy, Drama, Romance;7,5;136,49;$42,87M
+415;Cinderella;1950;74;Animation, Family, Fantasy;7,3;161,90;$85,00M
+416;My Fair Lady;1964;170;Drama, Family, Musical;7,8;96,28;$72,00M
+417;Waltz with Bashir;2008;90;Documentary, Animation, Biography;8,0;58,29;$2,28M
+418;Ghost in the Shell;1995;83;Animation, Action, Crime;7,9;144,21;$0,52M
+419;Chungking Express;1994;102;Comedy, Crime, Drama;8,0;83,11;$0,60M
+420;Mommy;2014;139;Drama;8,0;57,66;$3,49M
+421;The Prestige;2006;130;Drama, Mystery, Sci-Fi;8,5;1,329,348;$53,09M
+422;The Innocents;1961;100;Horror;7,8;31,01;$2,62M
+423;Black Swan;2010;108;Drama, Thriller;8,0;767,48;$106,95M
+424;Hereditary;2018;127;Drama, Horror, Mystery;7,3;317,04;$44,07M
+425;Black Cat, White Cat;1998;127;Comedy, Crime, Romance;8,0;54,33;$0,35M
+426;Sleuth;1972;138;Mystery, Thriller;8,0;48,11;$4,08M
+427;Coco;2017;105;Animation, Adventure, Comedy;8,4;506,24;$209,73M
+428;Predator;1987;107;Action, Adventure, Horror;7,8;424,85;$59,74M
+429;Dead Poets Society;1989;128;Comedy, Drama;8,1;491,24;$95,86M
+430;Hidden Figures;2016;127;Biography, Drama, History;7,8;231,23;$169,61M
+431;The Imitation Game;2014;114;Biography, Drama, Thriller;8,0;769,48;$91,13M
+432;Shutter Island;2010;138;Mystery, Thriller;8,2;1,309,105;$128,01M
+433;Lincoln;2012;150;Biography, Drama, History;7,3;261,73;$182,21M
+434;The Perks of Being a Wallflower;2012;103;Drama;7,9;513,04;$17,74M
+435;A Fistful of Dollars;1964;99;Action, Drama, Western;7,9;218,64;$14,50M
+436;Zero Dark Thirty;2012;157;Drama, History, Thriller;7,4;302,66;$95,72M
+437;American Hustle;2013;138;Crime, Drama;7,2;480,12;$150,12M
+438;Rain Man;1988;133;Drama;8,0;515,37;$178,80M
+439;Cinderella Man;2005;144;Biography, Drama, Romance;8,0;189,04;$61,65M
+440;From Here to Eternity;1953;118;Drama, Romance, War;7,6;47,60;$30,50M
+441;Walk the Line;2005;136;Biography, Drama, Music;7,8;252,50;$119,52M
+442;The Last Emperor;1987;163;Biography, Drama, History;7,7;104,34;$43,98M
+443;The Longest Day;1962;178;Action, Drama, History;7,7;56,46;$39,10M
